@@ -1,0 +1,110 @@
+[
+  {
+    "id": "the-gramercy-tavern-burger-4-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/137148/Gramercy-Tavern-Burger-and-Kielbasa-Kit-6.4.21-72ppi-1x1-15.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Gramercy Tavern",
+    "dsc": "The Gramercy Tavern Burger - 4 Pack",
+    "price": 9.99,
+    "rate": 5,
+    "country": "New York, NY"
+  },
+  {
+    "id": "shake-shack-shackburger-8-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134862/shake-shack-shackburger-8-pack.973a5e26836ea86d7e86a327becea2b0.png?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Shake Shack",
+    "dsc": "Shake Shack ShackBurger® – 8 Pack",
+    "price": 4.99,
+    "rate": 5,
+    "country": "New York, NY"
+  },
+  {
+    "id": "gotts-cheeseburger-kit-for-4",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132933/gotts-complete-cheeseburger-kit-for-4.7bdc74104b193427b3fe6eae39e05b5e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Gott's Roadside",
+    "dsc": "Gott's Complete Cheeseburger Kit for 4",
+    "price": 9.99,
+    "rate": 5,
+    "country": "St. Helena, CA"
+  },
+  {
+    "id": "le-big-matt-kit-for-6",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131436/le-big-matt-kit-for-6.1ddae6e382bb3218eeb0fd5247de115a.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Emmy Squared",
+    "dsc": "Le Big Matt Burger Kit for 6",
+    "price": 9.99,
+    "rate": 5,
+    "country": "Brooklyn, NY"
+  },
+  {
+    "id": "goldbelly-burger-bash-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/66179/the-burger-bash-package.bd9d12d031865940bbe5faf15f1a62f8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Pat LaFrieda Meats",
+    "dsc": "Goldbelly \"Burger Bash\" Pack",
+    "price": 10.99,
+    "rate": 5,
+    "country": "North Bergen, NJ"
+  },
+  {
+    "id": "burger-au-poivre-kit-4-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/103477/burger-au-poivre-kit-4-pack.3ca0e39b02db753304cd185638dad518.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Raoul's",
+    "dsc": "Burger Au Poivre Kit - 4 Pack",
+    "price": 9.99,
+    "rate": 4,
+    "country": "New York, NY"
+  },
+  {
+    "id": "american-wagyu-burger-party-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/109633/american-wagyu-burger-party-pack.6bb259a1c95c067d5da9a1057a9517e7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Holy Grail Steak Co.",
+    "dsc": "American Wagyu Burger Party Pack",
+    "price": 19.99,
+    "rate": 5,
+    "country": "San Francisco, CA"
+  },
+  {
+    "id": "best-damn-cheeseburger-kit",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134005/best-damn-cheeseburger-kit-8-pack.0c2ca295cc1b754d2867651184a07140.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "4505 Burgers & BBQ",
+    "dsc": "Best Damn Cheeseburger Kit - 8 Pack",
+    "price": 8.99,
+    "rate": 5,
+    "country": "San Francisco, CA"
+  },
+  {
+    "id": "le-pig-mac-kit-for-4",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/106701/le-pig-mac-kit-for-4.d9b274673ffc1a1a2035c9573291cae2.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Cochon Butcher",
+    "dsc": "Le Pig Mac Kit for 4",
+    "price": 10.99,
+    "rate": 4,
+    "country": "New Orleans, LA"
+  },
+  {
+    "id": "double-stack-burger-kit-for-2",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132733/handf-double-stack-burger-kit-for-2.4ecf6b1bee6b0ecef3b82606860a1b5b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Holeman & Finch",
+    "dsc": "Double Stack Burger Kit for 2",
+    "price": 4.99,
+    "rate": 4,
+    "country": "Atlanta, GA"
+  },
+  {
+    "id": "legendary-cheesy-western-burger-kit-4-pack",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131302/legendary-cheesy-western-burger-kit-4-pack.393ceddb3bca3acd862e762e48e4c207.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Texas Inn",
+    "dsc": "Legendary \"Cheesy Western\" Burger Kit - 4 Pack",
+    "price": 5.99,
+    "rate": 4,
+    "country": "Lynchburg, VA"
+  },
+  {
+    "id": "17663-mesquite-smoked-brisket-burger-patties-sauce",
+    "img": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131538/mesquite-smoked-brisket-burger-patties-dry-rub.628f7434c98a870a57b36c0c1dc4ec3f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
+    "name": "Davila's BBQ",
+    "dsc": "Mesquite Smoked Brisket Burger Patties + Dry Rub",
+    "price": 8.99,
+    "rate": 5,
+    "country": "Seguin, TX"
+  }
+]
